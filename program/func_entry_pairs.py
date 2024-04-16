@@ -1,4 +1,4 @@
-from program.filled_constants import ZSCORE_THRESH, USD_PER_TRADE, USD_MIN_COLLATERAL
+from constants import ZSCORE_THRESH, USD_PER_TRADE, USD_MIN_COLLATERAL
 from func_utils import format_number
 from func_public import get_candles_recent
 from func_cointegration import calculate_zscore

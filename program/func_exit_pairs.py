@@ -1,4 +1,4 @@
-from program.filled_constants import CLOSE_AT_ZSCORE_CROSS
+from constants import CLOSE_AT_ZSCORE_CROSS
 from func_utils import format_number
 from func_public import get_candles_recent
 from func_cointegration import calculate_zscore
